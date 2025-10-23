@@ -16,8 +16,9 @@
 </a>
 
 <a href="mailto:bilgeozcan@gmail.com" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/📧-E-Mail-ed8f57?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/E-Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
 
 <a href="https://ieeexplore.ieee.org/document/11017268" target="_blank" style="text-decoration:none;">
   <img src="https://img.shields.io/badge/📘-IEEE%20Yayını-fbd41d?style=for-the-badge&logo=ieee&logoColor=white" />
@@ -41,7 +42,7 @@
 
 🏆 **Başarılar:**
 - TEKNOFEST 2023 Finalisti — 7.lik  
-- TEKNOFEST 2024 Finalisti  
+- TEKNOFEST 2024 Finalisti — 7.lik 
 - IEEE Konferans Yayını  
 - YÖKAK Kalite Değerlendiricisi  
 
