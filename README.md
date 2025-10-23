@@ -7,10 +7,90 @@
 **💻 Bilgisayar Mühendisliği Öğrencisi | 🤖 AI & Deep Learning Researcher**
 
 <!-- Uiverse Style Buttons -->
-<a href="https://bilgeozcan.dev" target="_blank" class="button"><span>🌐 Portfolio</span></a>
-<a href="https://linkedin.com/in/nur-bilge-özcan-123975257" target="_blank" class="button"><span>💼 LinkedIn</span></a>
-<a href="mailto:bilgeozcan@gmail.com" class="button"><span>📧 E-Mail</span></a>
-<a href="https://ieeexplore.ieee.org/document/11017268" target="_blank" class="button"><span>📘 IEEE Yayını</span></a>
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>Nur Bilge Özcan - Linkler</title>
+  <style>
+    body {
+      background-color: #1e2130;
+      font-family: "Poppins", sans-serif;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      gap: 15px;
+    }
+
+    /* ---- Rainbow Hover Button ---- */
+    .rainbow-hover {
+      font-size: 16px;
+      font-weight: 700;
+      color: #ff7576;
+      background-color: #2B3044;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      padding: 12px 28px;
+      position: relative;
+      line-height: 24px;
+      border-radius: 9px;
+      box-shadow: 0px 1px 2px #2B3044,
+                  0px 4px 16px #2B3044;
+      transform-style: preserve-3d;
+      transform: scale(var(--s, 1)) perspective(600px)
+                 rotateX(var(--rx, 0deg)) rotateY(var(--ry, 0deg));
+      perspective: 600px;
+      transition: transform 0.1s;
+      text-decoration: none;
+      display: inline-block;
+    }
+
+    .sp {
+      background: linear-gradient(
+        90deg,
+        #866ee7,
+        #ea60da,
+        #ed8f57,
+        #fbd41d,
+        #2cca91
+      );
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      text-fill-color: transparent;
+      display: block;
+    }
+
+    .rainbow-hover:active {
+      transition: 0.3s;
+      transform: scale(0.93);
+    }
+  </style>
+</head>
+<body>
+
+  <a href="https://bilgeozcan.dev" target="_blank" class="rainbow-hover">
+    <span class="sp">🌐 Portfolio</span>
+  </a>
+
+  <a href="https://linkedin.com/in/nur-bilge-özcan-123975257" target="_blank" class="rainbow-hover">
+    <span class="sp">💼 LinkedIn</span>
+  </a>
+
+  <a href="mailto:bilgeozcan@gmail.com" class="rainbow-hover">
+    <span class="sp">📧 E-Mail</span>
+  </a>
+
+  <a href="https://ieeexplore.ieee.org/document/11017268" target="_blank" class="rainbow-hover">
+    <span class="sp">📘 IEEE Yayını</span>
+  </a>
+
+</body>
+</html>
+
 
 <br><br>
 
@@ -25,7 +105,7 @@
 <div align="left">
 
 🎓 **Eğitim:** Bilgisayar Mühendisliği — Yozgat Bozok Üniversitesi  
-📊 **GPA:** 3.80 / 4.00  
+📊 **GPA:** 2.80 / 4.00  
 🧠 **Uzmanlık Alanları:** Yapay Zeka, Derin Öğrenme, Computer Vision, LLM  
 💼 **Mevcut Rol:** Araştırmacı & Yazılım Mühendisi — TÜBİTAK  
 🚀 **Tutku:** AI tabanlı çözümler geliştirmek ve open-source projelere katkıda bulunmak  
@@ -42,23 +122,6 @@ _“Strawberry Ripeness Detection: Optimizing Harvesting Efficiency with YOLOv11
 **Yıl:** 2025 — IEEE Conference  
 **DOI:** [10.1109/ICHORA65333.2025.11017268](https://doi.org/10.1109/ICHORA65333.2025.11017268)
 
-</div>
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center"> 
-  <a href="https://github.com/bilgeozcan">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=bilgeozcan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=fc0987&icon_color=0ce39a&include_all_commits=true" />
-  </a>
-  <a href="https://github.com/bilgeozcan">
-    <img height="165" src="https://streak-stats.demolab.com/?user=bilgeozcan&theme=radical&hide_border=true&background=0D1117&ring=fc0987&fire=0ce39a&currStreakLabel=0ce39a" />
-  </a>
-  <a href="https://github.com/bilgeozcan">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilgeozcan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=fc0987&text_color=FFFFFF&langs_count=8" />
-  </a>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bilgeozcan&theme=react-dark&bg_color=0D1117&hide_border=true&color=fc0987&line=0ce39a&point=FFFFFF&area=true" width="100%" alt="Activity Graph" />
 </div>
 
 ---
