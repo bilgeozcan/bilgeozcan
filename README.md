@@ -6,13 +6,6 @@
 # 👋 Merhaba, Ben Nur Bilge Özcan!
 **💻 Bilgisayar Mühendisliği Öğrencisi | 🤖 AI & Deep Learning Researcher**
 
-<div align="center">
-
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nur%20Bilge%20Özcan&fontSize=50&fontAlignY=40&animation=fadeIn" width="100%" alt="Header Banner" />
-
-# 👋 Merhaba, Ben Nur Bilge Özcan!
-**💻 Bilgisayar Mühendisliği Öğrencisi | 🤖 AI & Deep Learning Researcher**
 
 <!-- Uiverse Style Buttons -->
 <a href="https://bilgeozcan.dev" target="_blank" style="text-decoration:none;">
@@ -35,16 +28,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bilgeozcan&color=fc0987&style=for-the-badge)
 
-</div>
 
-
-<br><br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=bilgeozcan&color=fc0987&style=for-the-badge)
-
-</div>
-
----
 
 ## 🌟 Profesyonel Özet
 
