@@ -6,8 +6,7 @@
 # 👋 Merhaba, Ben Nur Bilge Özcan!
 **💻 Bilgisayar Mühendisliği Öğrencisi | 🤖 AI & Deep Learning Researcher**
 
-
-<!-- Uiverse Style Buttons -->
+<!-- Uiverse-Style Buttons -->
 <a href="https://bilgeozcan.dev" target="_blank" style="text-decoration:none;">
   <img src="https://img.shields.io/badge/🌐-Portfolio-866ee7?style=for-the-badge&logo=appveyor&logoColor=white" />
 </a>
@@ -28,11 +27,11 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bilgeozcan&color=fc0987&style=for-the-badge)
 
+</div>
 
+---
 
 ## 🌟 Profesyonel Özet
-
-<div align="left">
 
 🎓 **Eğitim:** Bilgisayar Mühendisliği — Yozgat Bozok Üniversitesi  
 📊 **GPA:** 2.80 / 4.00  
@@ -52,56 +51,37 @@ _“Strawberry Ripeness Detection: Optimizing Harvesting Efficiency with YOLOv11
 **Yıl:** 2025 — IEEE Conference  
 **DOI:** [10.1109/ICHORA65333.2025.11017268](https://doi.org/10.1109/ICHORA65333.2025.11017268)
 
+---
+
+## 🛠️ Projeler & Teknolojiler
+
+### 1️⃣ UstaPlatform
+📌 **Açıklama:** Arcadia şehrinde kayıp uzmanları bulmayı kolaylaştıran bir platform.  
+💻 **Teknolojiler:** C#, .NET 7, ASP.NET MVC, SQL Server, REST API, HTML/CSS/JS  
+🔗 [Repo Linki](https://github.com/bilgeozcan/UstaPlatform)
+
+### 2️⃣ AI-Based Strawberry Ripeness Detection
+📌 **Açıklama:** Çilek olgunluğunu tespit eden YOLOv11 tabanlı bir derin öğrenme modeli.  
+💻 **Teknolojiler:** Python, PyTorch, YOLOv11, OpenCV, NumPy, Pandas  
+🔗 [IEEE Yayını](https://ieeexplore.ieee.org/document/11017268)
+
+### 3️⃣ Smart Home IoT System
+📌 **Açıklama:** Ev otomasyonunu sağlayan IoT tabanlı akıllı sistem.  
+💻 **Teknolojiler:** Arduino, Raspberry Pi, MQTT, Python, Node-RED  
+🔗 [Repo Linki](https://github.com/bilgeozcan/SmartHomeIoT)
+
+---
+
+## 📊 GitHub İstatistiklerim
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bilgeozcan&show_icons=true&count_private=true&theme=radical" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilgeozcan&layout=compact&theme=radical" />
 </div>
 
 ---
 
-<style>
-/* === Gradient Buttons (Uiverse.io by nima-mollazadeh) === */
-.button {
-  position: relative;
-  text-decoration: none;
-  color: #fff;
-  background: linear-gradient(45deg, #0ce39a, #69007f, #fc0987);
-  padding: 14px 25px;
-  border-radius: 10px;
-  font-size: 1.1em;
-  cursor: pointer;
-  margin: 6px;
-  display: inline-block;
-  transition: 0.3s ease;
-}
+## 💡 Hakkımda
+Yapay zeka ve derin öğrenme alanında araştırmalar yapmayı ve projeler geliştirmeyi çok seviyorum. Open-source katkılar yaparak teknoloji topluluklarına destek olmayı amaçlıyorum.  
+📬 Bana ulaşmak için [E-Mail](mailto:bilgeozcan@gmail.com) veya [LinkedIn](https://linkedin.com/in/nur-bilge-özcan-123975257) üzerinden iletişime geçebilirsin.
 
-.button span {
-  position: relative;
-  z-index: 1;
-}
-
-.button::before {
-  content: "";
-  position: absolute;
-  inset: 1px;
-  background: #272727;
-  border-radius: 9px;
-  transition: 0.5s;
-}
-
-.button:hover::before {
-  opacity: 0.7;
-}
-
-.button::after {
-  content: "";
-  position: absolute;
-  inset: 0px;
-  background: linear-gradient(45deg, #0ce39a, #69007f, #fc0987);
-  border-radius: 9px;
-  transition: 0.5s;
-  opacity: 0;
-  filter: blur(20px);
-}
-
-.button:hover:after {
-  opacity: 1;
-}
-</style>
