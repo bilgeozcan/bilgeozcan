@@ -80,8 +80,7 @@ _“Strawberry Ripeness Detection: Optimizing Harvesting Efficiency with YOLOv11
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilgeozcan&layout=compact&theme=radical" />
 </div>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=bilgeozcan&theme=radical&hide_border=true)
-
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kullaniciadiniz&theme=react-dark)
 
 ---
 
