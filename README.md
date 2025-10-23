@@ -76,11 +76,17 @@ _“Strawberry Ripeness Detection: Optimizing Harvesting Efficiency with YOLOv11
 ## 📊 GitHub İstatistiklerim
 
 <div align="center">
+  <!-- Toplam istatistikler -->
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bilgeozcan&show_icons=true&count_private=true&theme=radical" />
+
+  <!-- Kullanılan diller -->
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilgeozcan&layout=compact&theme=radical" />
 </div>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kullaniciadiniz&theme=react-dark)
+<!-- Aktivite grafiği -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bilgeozcan&theme=react-dark&hide_border=true" />
+</div>
 
 ---
 
