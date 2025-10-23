@@ -6,90 +6,36 @@
 # 👋 Merhaba, Ben Nur Bilge Özcan!
 **💻 Bilgisayar Mühendisliği Öğrencisi | 🤖 AI & Deep Learning Researcher**
 
+<div align="center">
+
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nur%20Bilge%20Özcan&fontSize=50&fontAlignY=40&animation=fadeIn" width="100%" alt="Header Banner" />
+
+# 👋 Merhaba, Ben Nur Bilge Özcan!
+**💻 Bilgisayar Mühendisliği Öğrencisi | 🤖 AI & Deep Learning Researcher**
+
 <!-- Uiverse Style Buttons -->
-<!DOCTYPE html>
-<html lang="tr">
-<head>
-  <meta charset="UTF-8">
-  <title>Nur Bilge Özcan - Linkler</title>
-  <style>
-    body {
-      background-color: #1e2130;
-      font-family: "Poppins", sans-serif;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      height: 100vh;
-      gap: 15px;
-    }
+<a href="https://bilgeozcan.dev" target="_blank" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/🌐-Portfolio-866ee7?style=for-the-badge&logo=appveyor&logoColor=white" />
+</a>
 
-    /* ---- Rainbow Hover Button ---- */
-    .rainbow-hover {
-      font-size: 16px;
-      font-weight: 700;
-      color: #ff7576;
-      background-color: #2B3044;
-      border: none;
-      outline: none;
-      cursor: pointer;
-      padding: 12px 28px;
-      position: relative;
-      line-height: 24px;
-      border-radius: 9px;
-      box-shadow: 0px 1px 2px #2B3044,
-                  0px 4px 16px #2B3044;
-      transform-style: preserve-3d;
-      transform: scale(var(--s, 1)) perspective(600px)
-                 rotateX(var(--rx, 0deg)) rotateY(var(--ry, 0deg));
-      perspective: 600px;
-      transition: transform 0.1s;
-      text-decoration: none;
-      display: inline-block;
-    }
+<a href="https://linkedin.com/in/nur-bilge-özcan-123975257" target="_blank" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/💼-LinkedIn-ea60da?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-    .sp {
-      background: linear-gradient(
-        90deg,
-        #866ee7,
-        #ea60da,
-        #ed8f57,
-        #fbd41d,
-        #2cca91
-      );
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      background-clip: text;
-      text-fill-color: transparent;
-      display: block;
-    }
+<a href="mailto:bilgeozcan@gmail.com" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/📧-E-Mail-ed8f57?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-    .rainbow-hover:active {
-      transition: 0.3s;
-      transform: scale(0.93);
-    }
-  </style>
-</head>
-<body>
+<a href="https://ieeexplore.ieee.org/document/11017268" target="_blank" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/📘-IEEE%20Yayını-fbd41d?style=for-the-badge&logo=ieee&logoColor=white" />
+</a>
 
-  <a href="https://bilgeozcan.dev" target="_blank" class="rainbow-hover">
-    <span class="sp">🌐 Portfolio</span>
-  </a>
+<br><br>
 
-  <a href="https://linkedin.com/in/nur-bilge-özcan-123975257" target="_blank" class="rainbow-hover">
-    <span class="sp">💼 LinkedIn</span>
-  </a>
+![Profile Views](https://komarev.com/ghpvc/?username=bilgeozcan&color=fc0987&style=for-the-badge)
 
-  <a href="mailto:bilgeozcan@gmail.com" class="rainbow-hover">
-    <span class="sp">📧 E-Mail</span>
-  </a>
-
-  <a href="https://ieeexplore.ieee.org/document/11017268" target="_blank" class="rainbow-hover">
-    <span class="sp">📘 IEEE Yayını</span>
-  </a>
-
-</body>
-</html>
+</div>
 
 
 <br><br>
