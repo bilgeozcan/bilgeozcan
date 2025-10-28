@@ -7,7 +7,7 @@
 **💻 Bilgisayar Mühendisliği Öğrencisi | 🤖 AI & Deep Learning Researcher**
 
 <!-- Uiverse-Style Buttons -->
-<a href="https://bilgeozcan.dev" target="_blank" style="text-decoration:none;">
+<a href="https://bilgeozcan.github.io/" target="_blank" style="text-decoration:none;">
   <img src="https://img.shields.io/badge/🌐-Portfolio-866ee7?style=for-the-badge&logo=appveyor&logoColor=white" />
 </a>
 
