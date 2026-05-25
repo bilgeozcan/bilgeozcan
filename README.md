@@ -400,21 +400,6 @@ A spec-driven personal task board project created with GitHub SpecKit and AI-ass
 
 ---
 
-## 📌 Repository Roadmap
-
-I am currently organizing my GitHub profile around research-based AI projects, hands-on learning modules and AI-assisted software development labs.
-
-Planned improvements:
-
-- Add polished README files for each module repository
-- Add screenshots and demo GIFs
-- Add GitHub Pages demos for frontend projects
-- Add clearer project descriptions and repository topics
-- Add more documentation for AI, computer vision and LLM-based projects
-- Continue building open-source, well-documented and research-oriented software projects
-
----
-
 ## 📫 Contact
 
 <div align="center">
