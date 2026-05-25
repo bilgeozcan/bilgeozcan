@@ -24,8 +24,8 @@ I enjoy building research-oriented AI projects, writing clean and documented sof
 <br>
 
 <!-- Contact Buttons -->
-<a href="https://github.com/NurBilgeOZCAN" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-NurBilgeOZCAN-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/bilgeozcan" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-bilgeozcan-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://bilgeozcan.github.io/" target="_blank">
@@ -46,11 +46,10 @@ I enjoy building research-oriented AI projects, writing clean and documented sof
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=NurBilgeOZCAN&label=Profile%20Views&color=fc0987&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=bilgeozcan&label=Profile%20Views&color=fc0987&style=for-the-badge" alt="Profile Views" />
 
 <br><br>
 
-<!-- Mini Badges -->
 <img src="https://img.shields.io/badge/AI%20Research-866ee7?style=flat-square" />
 <img src="https://img.shields.io/badge/Deep%20Learning-ea60da?style=flat-square" />
 <img src="https://img.shields.io/badge/Computer%20Vision-fc0987?style=flat-square" />
@@ -95,7 +94,7 @@ I enjoy building research-oriented AI projects, writing clean and documented sof
   </tr>
   <tr>
     <td>🤖 <b>AI & LLM Projects</b></td>
-    <td>Working on computer vision, medical NLP, RAG and LLM-based systems</td>
+    <td>Working on computer vision, NLP, RAG and LLM-based systems</td>
   </tr>
 </table>
 
@@ -184,7 +183,7 @@ A browser-based personal task board built with React, TypeScript and Vite.
 **Tech Stack**  
 `React` `TypeScript` `Vite` `CSS` `localStorage`
 
-<a href="https://github.com/NurBilgeOZCAN/Module1-Task1">
+<a href="https://github.com/bilgeozcan/Module1-Task1">
   <img src="https://img.shields.io/badge/View%20Repository-866ee7?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -206,7 +205,7 @@ A lab project demonstrating how prompt quality changes when requirements become 
 **Tech Stack / Topics**  
 `Prompt Engineering` `React` `Node.js` `PostgreSQL` `JWT`
 
-<a href="https://github.com/NurBilgeOZCAN/Module1-Task2">
+<a href="https://github.com/bilgeozcan/Module1-Task2">
   <img src="https://img.shields.io/badge/View%20Repository-ea60da?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -232,7 +231,7 @@ A structured submission repository for Model Context Protocol based AI-assisted 
 **Tech Stack / Topics**  
 `MCP` `Context7` `Playwright` `Jira` `Confluence` `Prompt Files`
 
-<a href="https://github.com/NurBilgeOZCAN/Module4-Task1">
+<a href="https://github.com/bilgeozcan/Module4-Task1">
   <img src="https://img.shields.io/badge/View%20Repository-fc0987?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -255,7 +254,7 @@ A spec-driven personal task board project created with GitHub SpecKit and AI-ass
 **Tech Stack / Topics**  
 `SpecKit` `React` `TypeScript` `Vite` `GitHub Copilot`
 
-<a href="https://github.com/NurBilgeOZCAN/Module5-Task1">
+<a href="https://github.com/bilgeozcan/Module5-Task1">
   <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -390,12 +389,12 @@ A spec-driven personal task board project created with GitHub SpecKit and AI-ass
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=NurBilgeOZCAN&show_icons=true&count_private=true&theme=radical&hide_border=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurBilgeOZCAN&layout=compact&theme=radical&hide_border=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=bilgeozcan&show_icons=true&count_private=true&theme=radical&hide_border=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilgeozcan&layout=compact&theme=radical&hide_border=true" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NurBilgeOZCAN&theme=react-dark&hide_border=true&area=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bilgeozcan&theme=react-dark&hide_border=true&area=true" width="95%" />
 
 </div>
 
@@ -432,7 +431,7 @@ For collaboration, academic work, research projects or software development oppo
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/NurBilgeOZCAN">
+<a href="https://github.com/bilgeozcan">
   <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
